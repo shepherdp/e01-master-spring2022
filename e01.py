@@ -4,7 +4,7 @@
 #
 # Assignment: E1 - Coding Portion
 # Purpose: Evaluate your ability to write code in Python
-# Value: 25 points total
+# Value: 35 points total
 #
 # Instructions:
 #   Complete ALL of the tasks indicated below. Read carefully!
@@ -20,11 +20,11 @@
 ####################################################################################
 #
 # TODO A successful student will have completed the following tasks:
-#   Task 1: Refactor the code to use a main() function. (6 pts)
-#   Task 2: Ask the user to input a number between 1 and 4.  (3 pts)
-#   Task 3: Call the draw_winter function, indicating how many snowflakes to draw using the user's input from Task 2. (4 pts)
-#   Task 4: Fix the draw_winter() function by converting it to use a loop and iterate the right number of times. (8 pts)
-#   Task 5: Add docstrings and comments where appropriate, modify this header, and clean up any unused code. (4 pts)
+#   Task 1: Refactor the code to use a main() function. (8 pts)
+#   Task 2: Ask the user to input a number between 1 and 4.  (5 pts)
+#   Task 3: Call the draw_winter function, indicating how many snowflakes to draw using the user's input from Task 2. (6 pts)
+#   Task 4: Fix the draw_winter() function by converting it to use a loop and iterate the right number of times. (10 pts)
+#   Task 5: Add docstrings and comments where appropriate, modify this header, and clean up any unused code. (6 pts)
 #   Bonus: Include a new function that writes "It's February!" to the turtle screen.
 #          modify main() to use this new function correctly IF the user picked four. (+3 pts)
 
